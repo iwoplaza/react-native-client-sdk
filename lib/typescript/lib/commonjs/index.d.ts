@@ -1,0 +1,24 @@
+export const __esModule: boolean;
+export const CameraConfig: any;
+export const CaptureDevice: any;
+export const Metadata: any;
+export const ScreencastQuality: typeof _reactNativeMembraneWebrtc.ScreencastQuality;
+export const SimulcastConfig: any;
+export const Track: any;
+export const TrackEncoding: any;
+export const VideoPreviewView: React.ForwardRefExoticComponent<_reactNativeMembraneWebrtc.VideoPreviewViewProps & React.RefAttributes<React.ComponentType<_reactNativeMembraneWebrtc.VideoPreviewViewProps>>>;
+export const VideoQuality: typeof _reactNativeMembraneWebrtc.VideoQuality;
+export const VideoRendererView: React.ForwardRefExoticComponent<_reactNativeMembraneWebrtc.VideoRendererProps & React.RefAttributes<React.ComponentType<_reactNativeMembraneWebrtc.VideoRendererProps>>>;
+export const changeWebRTCLoggingSeverity: typeof _reactNativeMembraneWebrtc.changeWebRTCLoggingSeverity;
+export const setTargetTrackEncoding: typeof _reactNativeMembraneWebrtc.setTargetTrackEncoding;
+export const updateAudioTrackMetadata: typeof _reactNativeMembraneWebrtc.updateAudioTrackMetadata;
+export const updateVideoTrackMetadata: typeof _reactNativeMembraneWebrtc.updateVideoTrackMetadata;
+export const useAudioSettings: typeof _reactNativeMembraneWebrtc.useAudioSettings;
+export const useBandwidthEstimation: typeof _reactNativeMembraneWebrtc.useBandwidthEstimation;
+export const useCamera: typeof _reactNativeMembraneWebrtc.useCamera;
+export const useMicrophone: typeof _reactNativeMembraneWebrtc.useMicrophone;
+export const useRTCStatistics: typeof _reactNativeMembraneWebrtc.useRTCStatistics;
+export const useScreencast: typeof _reactNativeMembraneWebrtc.useScreencast;
+import _reactNativeMembraneWebrtc = require("@jellyfish-dev/react-native-membrane-webrtc");
+export { useEndpoints as usePeers, updateEndpointMetadata as updatePeerMetadata };
+//# sourceMappingURL=index.d.ts.map
